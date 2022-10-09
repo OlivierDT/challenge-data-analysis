@@ -1,16 +1,26 @@
 # challenge-data-analysis
-Immo Eliza challenge to predict prices on Belgian real estate
 
+"Immo Eliza" challenge to predict prices for the Belgian real estate market.
 
 ## Description
 
-### Decision-making for data cleaning
-Open dataframe using json file
-Extract smaller dataframe by selecting columns of interest
+This challenge encompasses:
 
-Decision: drop rows where the price is missing (~540 out of 17K > ~3%)
+### 1. Data cleaning
 
-Decision: drop rows where the square meter area is missing (~7%)
+From raw data to data that can be exploited for building a pricing model.
+
+The data should have (1) no duplicates, (2) no blank spaces, (3) no errors, and (4) no empty values.
+
+Let's do some (heavy?) cleaning!
+
+### 2. Data analysis
+
+
+
+### 3. Data interpretation
+
+
 
 ## Installation
 
